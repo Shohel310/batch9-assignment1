@@ -1,3 +1,4 @@
+
 .container{
 background-image: url("../resources/Banner\ Image.png");
 background-size: contain;
@@ -14,11 +15,12 @@ justify-content: center;
 .container-item, .container-title{
     text-align: center;
     margin:20px auto;
+    font-family: 'Andika', sans-serif;
 }
 .container-item{
 color: #FFF;
 text-align: center;
-font-family: Merriweather;
+font-family: 'Andika', sans-serif;
 font-size: 32px;
 font-weight: 400;
 line-height: normal;
@@ -113,9 +115,41 @@ left: 298px*/
 }
 .group{
     padding:50px 50px 138px 0;
+    height: 400px;
+
 }
 .party-time{
     text-align: center;
-    background-image: linear-gradient(#FF0000, #FF000000);
-    
+    background-image: linear-gradient(#eca9a9, #FF000000);
+    max-width: 1320px;
+    justify-content:center;
+    margin:0 880px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 0;
+}
+.place{
+    color: red;
+}
+.btn-primary{
+    color:#FFF;
+    background-color: #FF0000;
+}
+.special{
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    padding-top: 20px;
+    background-image: linear-gradient( #FF000000);
+    max-width: 1600px;
+}
+.1{
+    text-align:left;
+}
+.best-offer{
+    color:#f80606;
 }
