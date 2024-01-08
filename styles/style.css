@@ -1,0 +1,121 @@
+.container{
+background-image: url("../resources/Banner\ Image.png");
+background-size: contain;
+background-position:center;
+background-repeat: no-repeat;
+color:white;
+align-items: center;
+width: 802px;
+max-width: 1320px;
+max-height: 600px;
+margin:10px auto;
+justify-content: center;
+}
+.container-item, .container-title{
+    text-align: center;
+    margin:20px auto;
+}
+.container-item{
+color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-weight: 400;
+line-height: normal;
+padding-top: 170px;
+}
+.container-title{
+color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+line-height: 95px;
+width: 632px;
+}
+.off{
+font-size: 88px;
+font-weight: 700;
+line-height: 107px;
+letter-spacing: 0em;
+text-align: center;
+color:#FF0000;
+margin-bottom: 40px;
+}
+.deals{
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: center;
+}
+.catagories{
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.img-src{
+    justify-content: center;
+    margin: 20px auto;
+    width: 802px;
+    height: 500px;
+    top: 1076px;
+    left: 399px;
+
+}
+.section-content{
+    background-image: url("../resources/Vectorrr.png");
+    background-repeat: no-repeat;
+    color:white;
+    align-items: center;
+    width: 78%;
+    max-width: 1320px;
+    max-height: 600px;
+    margin:20px auto;
+    justify-content:center;
+    background-size: cover;
+    display: flex;
+}
+.section-title{
+font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+line-height: 44px;
+letter-spacing: 0.11em;
+text-align: left;
+height: 176px;
+width: 642px;
+padding-top: 40px 60px 0 40px;
+margin-bottom:10px;
+}
+.mid-para{
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+margin-bottom: 30px;
+}
+.join{
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+/*width: 103px
+height: 24px
+top: 2130px
+left: 298px*/
+
+}
+.group{
+    padding:50px 50px 138px 0;
+}
+.party-time{
+    text-align: center;
+    background-image: linear-gradient(#FF0000, #FF000000);
+    
+}
